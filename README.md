@@ -4,6 +4,6 @@
 
 This is a learning project based on the book
 
-*Luca Palmieri: Zero to Productionin Rust*
+*Luca Palmieri: Zero to Productionin Rust, Independently published (2022)*
 
-Independently published (2022).
+which guides the reader in the backend developent of a simple email newsletter.
